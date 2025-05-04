@@ -62,5 +62,5 @@ I am a passionate MERN Stack Developer who specializes in building dynamic, full
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p> -->
 
-| [<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adnanaotrek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Adnan's github stats" /></a>](https://github-readme-stats-anuraghazra1.vercel.app/api?username=adnanaotrek&show_icons=true)](https://github.com/adnanaotrek/github-readme-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaotrek&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![My github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=adnanaotrek&show_icons=true)](https://github.com/adnanaotrek/github-readme-stats) | <a href="https://github.com/adnanaotrek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanaotrek&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
